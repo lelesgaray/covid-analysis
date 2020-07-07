@@ -1,1 +1,1 @@
-This is a short analysis using a COVID database.
+Short analysis of a COVID database using Google Colab.
